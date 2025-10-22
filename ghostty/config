@@ -1,0 +1,27 @@
+#  ghostty +show-config --default --docs` to view all 
+# custom-shader = ./shaders/tft.glsl
+# custom-shader = ./shaders/bloom.glsl
+
+confirm-close-surface = false
+
+macos-titlebar-style = hidden
+window-padding-x = 10
+window-padding-y = 10,0
+
+#window-padding-x = 40
+#window-padding-y = 40,40
+
+#theme = dark:TokyoNight Moon, light:Gruvbox Light 
+theme = dark:Gruvbox Dark Hard, light:Gruvbox Light 
+#Builtin Solarized Light
+
+font-family = VictorMono Nerd Font Mono
+font-size = 14
+
+background-opacity = 0.98
+background-blur = 15
+#background-blur = 0
+
+
+# macos-icon = xray
+
